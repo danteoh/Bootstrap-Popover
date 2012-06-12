@@ -8,10 +8,10 @@ This is very much a work in progress :)
 HTML Structure
 --------------
 
+<blockquote>
 <div id="navbar" class="navbar navbar-fixed-top">
   <div class="navbar-inner">
     <div class="container">
-      <a class="brand"  href="#"><img src="staging_logo.png"/></a>
       <ul class="nav">
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown</a>
@@ -38,7 +38,7 @@ HTML Structure
     </div>
   </div>
 </div>
-
+</blockquote>
 
 Getting Started
 ---------------
