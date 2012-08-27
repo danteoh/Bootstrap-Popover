@@ -3,7 +3,7 @@ Bootstrap-Popover
 
 Adds 2nd-level navigation to the Bootstrap Dropdown plugin
 
-This is very much a work in progress :)
+This is very much a work in progress, and was build for Bootstrap 2.0.  Bootstrap 2.1 now supports the popover natively :)
 
 HTML Structure
 --------------
